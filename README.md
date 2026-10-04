@@ -1,10 +1,21 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=BenjaminCantero&style=for-the-badge&color=blueviolet&label=VISITAS">
+
 <h1 align="center"><b>Hola, soy Benjamín Cantero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Soy estudiante de **Ingeniería Civil en Informática**, actualmente cursando 4.º año.  
-Estoy ampliando mis conocimientos en **desarrollo de software**.  
-Me apasiona aprender y crear soluciones.  
+<p align="center">
+  <a href="https://github.com/BenjaminCantero">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=40&lines=Hola%2C+soy+Benjam%C3%ADn+Cantero;Estudiante+de+Ingenier%C3%ADa+Civil+en+Inform%C3%A1tica;Desarrollo+Full+Stack+con+React%2C+Node.js+y+Next.js;Infraestructura+con+Terraform+y+Ansible;Bienvenido+a+mi+GitHub!">
+  </a>
+</p>
 
-Contáctame en: <a href="mailto:canteroalexander56@gmail.com">canteroalexander56@gmail.com</a>  
+<h2><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30px"> Sobre mí</h2>
+
+<img align="right" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+
+- 👨‍🎓 Estudiante de **Ingeniería Civil en Informática**, cursando 4.º año
+- 💻 Ampliando mis conocimientos en **desarrollo de software**
+- 🚀 Me apasiona aprender y crear soluciones
+- 📫 Contáctame en: <a href="mailto:canteroalexander56@gmail.com">canteroalexander56@gmail.com</a>
 
 <h2>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0cWxnMHdtc2lsYXV5bG9zMmQ5ZHgya3Jrdjc1Zng0a3NlbnRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pGnNhScvs9Udt1WSkA/giphy.gif" width="25px">
@@ -15,6 +26,13 @@ Contáctame en: <a href="mailto:canteroalexander56@gmail.com">canteroalexander56
 🎓 Ingeniería Civil en Informática<br/>
 📅 2023 – Actualmente <br/>
 ⏳ En curso.  
+
+<h2>💬 Redes y Contacto</h2>
+<p>
+  <a href="https://github.com/BenjaminCantero" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/benjam%C3%ADn-alexander-cantero-garrido-7628b7321" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjg4OSAxLjYzNy0xLjg0IDMuMzctMS44NCAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNC44OTJ2NC44Mzl6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+"></a>
+  <a href="mailto:canteroalexander56@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
 
@@ -53,11 +71,13 @@ Contáctame en: <a href="mailto:canteroalexander56@gmail.com">canteroalexander56
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 </p>
 
-<h4>Redes y Contacto</h4>
-<p>
-  <a href="https://github.com/BenjaminCantero" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/benjam%C3%ADn-alexander-cantero-garrido-7628b7321" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjg4OSAxLjYzNy0xLjg0IDMuMzctMS44NCAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNC44OTJ2NC44Mzl6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+"></a>
-  <a href="mailto:canteroalexander56@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<h2>🛠️ Proyectos</h2>
+
+<p align="center">
+  <a href="https://github.com/BenjaminCantero/Vetconecta-mobile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminCantero&repo=Vetconecta-mobile&theme=tokyonight" width="49%"></a>
+  <a href="https://github.com/BenjaminCantero/BarberiaApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminCantero&repo=BarberiaApp&theme=tokyonight" width="49%"></a>
+  <a href="https://github.com/BenjaminCantero/mi-portafolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminCantero&repo=mi-portafolio&theme=tokyonight" width="49%"></a>
+  <a href="https://github.com/BenjaminCantero/DronesSistem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminCantero&repo=DronesSistem&theme=tokyonight" width="49%"></a>
 </p>
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Estadísticas de GitHub</h2>
@@ -68,3 +88,11 @@ Contáctame en: <a href="mailto:canteroalexander56@gmail.com">canteroalexander56
   <br/>
   <img src="https://streak-stats.demolab.com/?user=BenjaminCantero&theme=tokyonight&locale=es"/>
 </div>
+
+<h2>📈 Contribuciones</h2>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/36BCF7/BenjaminCantero" alt="Contribuciones de Benjamín" width="100%">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%">
